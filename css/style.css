@@ -28,6 +28,10 @@ p{
 header{
     margin-bottom: 350px;
 }
+input{
+    background-color: lightblue;
+    outline: none;
+}
 
 /* card wave css */
 .svg-card {
